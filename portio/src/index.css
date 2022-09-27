@@ -1,0 +1,137 @@
+@font-face {
+  font-family: 'portio';
+  src: url('./portio.ttf');
+}
+
+html{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'portio';
+  color: black;
+
+}
+
+[id^=root]{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: 'portio';
+  
+}
+
+.App{
+  background-color: bisque;
+  width: 100%;
+  height: 100%;
+  
+}
+
+body{
+  width: 100%;
+  height: 100%;
+  margin: 0%;
+  font-family: 'portio';
+}
+
+ .div{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 0%;
+} 
+
+.homePage{
+  margin: 0%;
+  width: 100%;
+  height: 100%;
+  /* background-image: url(https://i.pinimg.com/originals/e1/98/2e/e1982e24a9a1373dd8c4bbb6d6806097.jpg); */
+}
+
+.container{
+  width: 100%;
+  height: 100%;
+  margin: 0%;
+}
+main{
+  width: 100%;
+  height: 81%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+
+}
+.login-page{
+  justify-content: center;
+}
+
+.home{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 70px;
+  
+
+}
+
+button{
+  width: 60%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  background-color: transparent;
+  margin: 50px;
+  height: 80px;
+  font-family: 'portio';
+  font-weight: bold;
+  
+  border: 3px solid black;
+
+}
+
+.HomeList{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+
+  justify-content: space-between;
+  
+}
+
+Header{
+  margin: 0%;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 3px  solid black;
+  height: 13%;
+
+}
+
+h1{
+  font-family: portio;
+  
+  
+}
+
+input{
+  background-color: white !important;
+  justify-content: space-between;
+}

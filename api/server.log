@@ -1,0 +1,811 @@
+ERROR 2022-09-09T07:21:07.201Z src/index.js | The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+ERROR 2022-09-09T07:22:47.329Z src/index.js | The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+ERROR 2022-09-09T07:29:10.576Z src/index.js | The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+ERROR 2022-09-09T07:29:51.159Z src/index.js | The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+ERROR 2022-09-09T07:30:31.162Z src/index.js | The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+ERROR 2022-09-09T07:30:43.553Z src/index.js | The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+ERROR 2022-09-09T07:31:24.608Z src/index.js | The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+ERROR 2022-09-09T07:35:45.104Z src/index.js | The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+ERROR 2022-09-09T07:55:49.741Z src/index.js | The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+ERROR 2022-09-09T08:03:15.838Z src/index.js | The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+ERROR 2022-09-09T08:03:40.326Z src/index.js | The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+ERROR 2022-09-09T08:03:44.206Z src/index.js | The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+INFO 2022-09-09T08:11:28.470Z src/index.js | db connected
+ERROR 2022-09-09T08:11:28.535Z src/index.js | Cannot find module './users'
+Require stack:
+- /Users/tonisallent/workspace/neoland-bootcamp-202207/staff/toni-sallent/final-project/api/src/logic/index.js
+- /Users/tonisallent/workspace/neoland-bootcamp-202207/staff/toni-sallent/final-project/api/src/routes/users/authenticateUserHandler.js
+- /Users/tonisallent/workspace/neoland-bootcamp-202207/staff/toni-sallent/final-project/api/src/routes/users/index.js
+- /Users/tonisallent/workspace/neoland-bootcamp-202207/staff/toni-sallent/final-project/api/src/routes/index.js
+- /Users/tonisallent/workspace/neoland-bootcamp-202207/staff/toni-sallent/final-project/api/src/index.js
+INFO 2022-09-09T08:17:37.016Z src/index.js | db connected
+ERROR 2022-09-09T08:17:37.082Z src/index.js | Cannot find module './users'
+Require stack:
+- /Users/tonisallent/workspace/neoland-bootcamp-202207/staff/toni-sallent/final-project/api/src/logic/index.js
+- /Users/tonisallent/workspace/neoland-bootcamp-202207/staff/toni-sallent/final-project/api/src/routes/users/authenticateUserHandler.js
+- /Users/tonisallent/workspace/neoland-bootcamp-202207/staff/toni-sallent/final-project/api/src/routes/users/index.js
+- /Users/tonisallent/workspace/neoland-bootcamp-202207/staff/toni-sallent/final-project/api/src/routes/index.js
+- /Users/tonisallent/workspace/neoland-bootcamp-202207/staff/toni-sallent/final-project/api/src/index.js
+INFO 2022-09-09T08:19:35.850Z src/index.js | db connected
+ERROR 2022-09-09T08:19:35.916Z src/index.js | Cannot find module './registerUser'
+Require stack:
+- /Users/tonisallent/workspace/neoland-bootcamp-202207/staff/toni-sallent/final-project/api/src/logic/users/index.js
+- /Users/tonisallent/workspace/neoland-bootcamp-202207/staff/toni-sallent/final-project/api/src/logic/index.js
+- /Users/tonisallent/workspace/neoland-bootcamp-202207/staff/toni-sallent/final-project/api/src/routes/users/authenticateUserHandler.js
+- /Users/tonisallent/workspace/neoland-bootcamp-202207/staff/toni-sallent/final-project/api/src/routes/users/index.js
+- /Users/tonisallent/workspace/neoland-bootcamp-202207/staff/toni-sallent/final-project/api/src/routes/index.js
+- /Users/tonisallent/workspace/neoland-bootcamp-202207/staff/toni-sallent/final-project/api/src/index.js
+INFO 2022-09-09T08:20:30.482Z src/index.js | db connected
+INFO 2022-09-09T08:20:30.577Z src/index.js | api v1.0.0 started and listening in port undefined
+INFO 2022-09-09T08:21:27.539Z src/index.js | 
+api stopped
+INFO 2022-09-09T08:21:27.551Z src/index.js | db disconnected
+INFO 2022-09-09T08:22:12.115Z src/index.js | db connected
+INFO 2022-09-09T08:22:12.204Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-09T08:26:43.373Z users/retrieveUserHandler.js | authorization is not a string
+ERROR 2022-09-09T08:27:02.647Z users/registerUserHandler.js | name is not a string
+INFO 2022-09-09T10:05:01.347Z src/index.js | 
+api stopped
+INFO 2022-09-09T10:05:01.373Z src/index.js | db disconnected
+INFO 2022-09-09T10:05:46.286Z src/index.js | db connected
+INFO 2022-09-09T10:05:46.370Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-09T10:13:33.023Z src/index.js | 
+api stopped
+INFO 2022-09-09T10:13:33.043Z src/index.js | db disconnected
+INFO 2022-09-09T10:14:04.952Z src/index.js | db connected
+INFO 2022-09-09T10:14:05.009Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-09T10:14:18.818Z users/registerUserHandler.js | surname is not defined
+INFO 2022-09-09T10:18:09.639Z src/index.js | 
+api stopped
+INFO 2022-09-09T10:18:09.652Z src/index.js | db disconnected
+INFO 2022-09-09T10:18:12.742Z src/index.js | db connected
+INFO 2022-09-09T10:18:12.800Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-09T11:42:43.524Z src/index.js | 
+api stopped
+INFO 2022-09-09T11:42:43.544Z src/index.js | db disconnected
+INFO 2022-09-09T13:46:38.922Z src/index.js | db connected
+INFO 2022-09-09T13:46:38.983Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-09T13:50:16.633Z users/retrieveUserHandler.js | verifyObjectId is not a function
+ERROR 2022-09-09T13:50:43.113Z users/retrieveUserHandler.js | verifyObjectId is not a function
+ERROR 2022-09-09T13:55:52.627Z users/authenticateUserHandler.js | email is not valid
+ERROR 2022-09-09T13:55:59.309Z users/authenticateUserHandler.js | user with email pepito@grillo.com not found
+INFO 2022-09-09T15:18:37.028Z src/index.js | 
+api stopped
+INFO 2022-09-09T15:18:37.043Z src/index.js | db disconnected
+INFO 2022-09-09T15:18:40.514Z src/index.js | db connected
+INFO 2022-09-09T15:18:40.575Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-09T15:23:47.358Z users/retrieveUserHandler.js | jwt expired
+ERROR 2022-09-09T15:24:17.296Z users/retrieveUserHandler.js | verifyObjectId is not a function
+ERROR 2022-09-09T15:26:21.071Z users/retrieveUserHandler.js | verifyObjectId is not a function
+INFO 2022-09-09T15:27:45.155Z src/index.js | 
+api stopped
+INFO 2022-09-09T15:27:45.172Z src/index.js | db disconnected
+INFO 2022-09-09T15:27:47.459Z src/index.js | db connected
+INFO 2022-09-09T15:27:47.520Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-10T10:32:43.197Z src/index.js | 
+api stopped
+INFO 2022-09-10T10:32:43.211Z src/index.js | db disconnected
+INFO 2022-09-10T10:34:57.005Z src/index.js | db connected
+INFO 2022-09-10T10:34:57.065Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-10T10:38:54.935Z src/index.js | 
+api stopped
+INFO 2022-09-10T10:38:54.948Z src/index.js | db disconnected
+INFO 2022-09-10T10:48:54.491Z src/index.js | db connected
+INFO 2022-09-10T10:48:54.554Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-10T10:49:13.590Z users/authenticateUserHandler.js | email is not a string
+ERROR 2022-09-10T10:49:34.462Z users/authenticateUserHandler.js | email is not a string
+ERROR 2022-09-10T10:50:18.311Z users/registerUserHandler.js | surname is not a string
+ERROR 2022-09-10T10:52:29.710Z users/authenticateUserHandler.js | email is not a string
+ERROR 2022-09-10T10:58:39.484Z users/authenticateUserHandler.js | email is not a string
+ERROR 2022-09-10T10:59:48.129Z users/authenticateUserHandler.js | email is not a string
+ERROR 2022-09-10T11:08:21.060Z users/authenticateUserHandler.js | wrong password
+ERROR 2022-09-10T11:43:31.580Z users/authenticateUserHandler.js | wrong password
+ERROR 2022-09-10T11:43:45.264Z users/authenticateUserHandler.js | wrong password
+ERROR 2022-09-10T13:48:57.414Z properties/retrievePropertiesOfUserHandler.js | jwt expired
+ERROR 2022-09-10T13:49:13.142Z properties/retrievePropertiesOfUserHandler.js | jwt expired
+ERROR 2022-09-10T13:49:39.924Z users/retrieveUserHandler.js | jwt expired
+ERROR 2022-09-10T13:49:39.930Z users/retrieveUserHandler.js | jwt expired
+ERROR 2022-09-10T13:49:46.409Z users/authenticateUserHandler.js | wrong password
+ERROR 2022-09-10T13:49:51.253Z users/authenticateUserHandler.js | wrong password
+INFO 2022-09-10T13:51:22.872Z src/index.js | 
+api stopped
+INFO 2022-09-10T13:51:22.898Z src/index.js | db disconnected
+INFO 2022-09-10T13:51:30.867Z src/index.js | db connected
+INFO 2022-09-10T13:51:30.941Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-10T15:13:35.744Z src/index.js | 
+api stopped
+INFO 2022-09-10T15:13:35.901Z src/index.js | db disconnected
+INFO 2022-09-10T15:13:47.043Z src/index.js | db connected
+INFO 2022-09-10T15:13:47.127Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-10T15:13:57.878Z users/retrieveUserHandler.js | jwt expired
+ERROR 2022-09-10T15:13:57.882Z users/retrieveUserHandler.js | jwt expired
+INFO 2022-09-10T15:15:11.644Z src/index.js | db connected
+INFO 2022-09-10T15:15:11.705Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-10T19:19:34.086Z properties/retrievePropertiesOfUserHandler.js | jwt expired
+ERROR 2022-09-10T19:24:44.526Z users/retrieveUserHandler.js | jwt expired
+INFO 2022-09-10T19:25:20.963Z src/index.js | db connected
+INFO 2022-09-10T19:25:21.026Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-12T07:03:26.986Z src/index.js | 
+api stopped
+INFO 2022-09-12T07:03:27.067Z src/index.js | db disconnected
+INFO 2022-09-12T07:06:50.579Z src/index.js | db connected
+INFO 2022-09-12T07:06:50.642Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-12T07:07:59.338Z src/index.js | db connected
+INFO 2022-09-12T07:07:59.400Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-12T08:29:03.213Z src/index.js | db connected
+INFO 2022-09-12T08:29:03.286Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-12T10:33:32.723Z src/index.js | db connected
+INFO 2022-09-12T10:33:32.797Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-12T10:58:45.432Z src/index.js | db connected
+INFO 2022-09-12T10:58:45.493Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-12T12:32:03.608Z properties/retrievePropertiesOfUserHandler.js | jwt expired
+ERROR 2022-09-12T12:36:36.313Z users/retrieveUserHandler.js | jwt expired
+ERROR 2022-09-12T12:36:36.318Z users/retrieveUserHandler.js | jwt expired
+INFO 2022-09-12T13:00:00.770Z src/index.js | 
+api stopped
+INFO 2022-09-12T13:00:00.809Z src/index.js | db disconnected
+INFO 2022-09-13T06:19:09.667Z src/index.js | db connected
+INFO 2022-09-13T06:19:09.744Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-13T06:48:52.555Z src/index.js | 
+api stopped
+INFO 2022-09-13T06:48:52.598Z src/index.js | db disconnected
+INFO 2022-09-13T06:49:02.071Z src/index.js | db connected
+ERROR 2022-09-13T06:49:02.151Z src/index.js | Cannot read properties of undefined (reading 'createBooking')
+INFO 2022-09-13T07:00:10.989Z src/index.js | db connected
+ERROR 2022-09-13T07:00:11.065Z src/index.js | Cannot use import statement outside a module
+INFO 2022-09-13T07:12:16.423Z src/index.js | db connected
+INFO 2022-09-13T07:12:17.045Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-13T07:29:16.902Z src/index.js | 
+api stopped
+INFO 2022-09-13T07:29:16.933Z src/index.js | db disconnected
+INFO 2022-09-13T07:29:19.472Z src/index.js | db connected
+INFO 2022-09-13T07:29:19.536Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-13T07:36:01.890Z src/index.js | db connected
+INFO 2022-09-13T07:36:01.965Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-13T07:37:23.142Z src/index.js | 
+api stopped
+INFO 2022-09-13T07:37:23.157Z src/index.js | db disconnected
+INFO 2022-09-13T08:58:11.327Z src/index.js | db connected
+INFO 2022-09-13T08:58:11.389Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-13T08:58:20.699Z src/index.js | 
+api stopped
+INFO 2022-09-13T08:58:20.710Z src/index.js | db disconnected
+INFO 2022-09-13T09:03:51.793Z src/index.js | db connected
+INFO 2022-09-13T09:03:51.854Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-13T09:05:09.458Z bookings/createBooking.js | jwt expired
+INFO 2022-09-13T09:07:00.754Z src/index.js | db connected
+INFO 2022-09-13T09:07:00.816Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-13T09:10:27.930Z src/index.js | db connected
+INFO 2022-09-13T09:10:27.995Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-13T10:03:32.959Z src/index.js | db connected
+INFO 2022-09-13T10:03:33.035Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-13T10:06:59.944Z src/index.js | db connected
+INFO 2022-09-13T10:07:00.019Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-13T10:07:04.349Z bookings/createBookingHandler.js | jwt expired
+INFO 2022-09-13T10:41:25.503Z src/index.js | db connected
+INFO 2022-09-13T10:41:25.564Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-13T10:43:09.343Z bookings/createBookingHandler.js | there is a previous reservation in range of dates required
+ERROR 2022-09-13T10:43:43.568Z bookings/createBookingHandler.js | there is a previous reservation in range of dates required
+ERROR 2022-09-13T10:44:48.061Z bookings/createBookingHandler.js | there is a previous reservation in range of dates required
+INFO 2022-09-13T10:50:06.867Z src/index.js | 
+api stopped
+INFO 2022-09-13T10:50:06.881Z src/index.js | db disconnected
+ERROR 2022-09-13T13:58:23.642Z src/index.js | connect ECONNREFUSED 127.0.0.1:27017
+INFO 2022-09-13T14:01:05.656Z src/index.js | db connected
+INFO 2022-09-13T14:01:05.726Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-13T15:40:08.468Z users/retrieveUserHandler.js | jwt expired
+ERROR 2022-09-13T15:40:08.469Z users/retrieveUserHandler.js | jwt expired
+INFO 2022-09-13T15:40:24.657Z src/index.js | db connected
+INFO 2022-09-13T15:40:24.720Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-13T15:40:44.093Z src/index.js | db connected
+INFO 2022-09-13T15:40:44.151Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-14T07:05:46.627Z src/index.js | db connected
+INFO 2022-09-14T07:05:46.699Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-14T08:09:14.901Z bookings/createBookingHandler.js | jwt expired
+ERROR 2022-09-14T08:09:46.195Z bookings/createBookingHandler.js | jwt expired
+ERROR 2022-09-14T08:10:02.896Z bookings/createBookingHandler.js | there is a previous reservation in range of dates required
+ERROR 2022-09-14T08:38:44.325Z users/retrieveUserHandler.js | jwt expired
+ERROR 2022-09-14T08:46:16.118Z bookings/createBookingHandler.js | Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Property"
+ERROR 2022-09-14T08:47:28.677Z bookings/createBookingHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Property"
+ERROR 2022-09-14T08:51:25.333Z bookings/createBookingHandler.js | Cast to date failed for value "undefined" (type string) at path "dates.from" for model "Booking"
+ERROR 2022-09-14T08:53:46.590Z bookings/createBookingHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Property"
+ERROR 2022-09-14T08:54:40.122Z bookings/createBookingHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Property"
+ERROR 2022-09-14T08:55:13.873Z bookings/createBookingHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Property"
+ERROR 2022-09-14T08:55:44.338Z bookings/createBookingHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Property"
+ERROR 2022-09-14T08:56:33.206Z bookings/createBookingHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Property"
+ERROR 2022-09-14T09:21:30.931Z bookings/createBookingHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Property"
+ERROR 2022-09-14T09:22:31.054Z bookings/createBookingHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Property"
+ERROR 2022-09-14T09:24:24.452Z bookings/createBookingHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Property"
+INFO 2022-09-14T09:30:54.828Z src/index.js | 
+api stopped
+INFO 2022-09-14T09:30:54.843Z src/index.js | db disconnected
+INFO 2022-09-14T09:30:57.646Z src/index.js | db connected
+INFO 2022-09-14T09:30:57.709Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-14T09:31:04.404Z bookings/createBookingHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Property"
+INFO 2022-09-14T09:31:47.043Z src/index.js | 
+api stopped
+INFO 2022-09-14T09:31:47.056Z src/index.js | db disconnected
+INFO 2022-09-14T09:31:48.134Z src/index.js | db connected
+INFO 2022-09-14T09:31:48.198Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-14T09:31:52.259Z bookings/createBookingHandler.js | Cast to date failed for value "undefined" (type string) at path "dates.from" for model "Booking"
+INFO 2022-09-14T09:32:24.690Z src/index.js | 
+api stopped
+INFO 2022-09-14T09:32:24.702Z src/index.js | db disconnected
+INFO 2022-09-14T09:32:25.801Z src/index.js | db connected
+INFO 2022-09-14T09:32:25.862Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-14T09:32:29.896Z bookings/createBookingHandler.js | Cast to date failed for value "undefined" (type string) at path "dates.from" for model "Booking"
+ERROR 2022-09-14T09:35:46.580Z bookings/createBookingHandler.js | Cast to date failed for value "undefined" (type string) at path "dates.from" for model "Booking"
+ERROR 2022-09-14T09:37:43.360Z bookings/createBookingHandler.js | there is a previous reservation in range of dates required
+ERROR 2022-09-14T10:23:16.876Z properties/retrievePropertiesOfUserHandler.js | jwt expired
+ERROR 2022-09-14T10:51:55.468Z bookings/createBookingHandler.js | jwt expired
+ERROR 2022-09-14T10:51:56.771Z properties/retrievePropertiesOfUserHandler.js | jwt expired
+ERROR 2022-09-14T10:52:11.179Z bookings/createBookingHandler.js | jwt expired
+INFO 2022-09-14T10:52:32.661Z src/index.js | 
+api stopped
+INFO 2022-09-14T10:52:32.680Z src/index.js | db disconnected
+INFO 2022-09-14T10:52:35.253Z src/index.js | db connected
+INFO 2022-09-14T10:52:35.316Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-14T10:53:09.935Z bookings/createBookingHandler.js | there is a previous reservation in range of dates required
+ERROR 2022-09-14T10:53:32.432Z bookings/createBookingHandler.js | there is a previous reservation in range of dates required
+ERROR 2022-09-14T10:56:14.293Z bookings/createBookingHandler.js | there is a previous reservation in range of dates required
+ERROR 2022-09-14T11:19:39.270Z bookings/createBookingHandler.js | there is a previous reservation in range of dates required
+ERROR 2022-09-14T11:24:22.176Z bookings/createBookingHandler.js | there is a previous reservation in range of dates required
+ERROR 2022-09-14T11:25:44.918Z bookings/createBookingHandler.js | there is a previous reservation in range of dates required
+ERROR 2022-09-14T13:00:23.579Z properties/retrievePropertiesOfUserHandler.js | jwt expired
+ERROR 2022-09-14T13:00:39.233Z bookings/createBookingHandler.js | jwt expired
+ERROR 2022-09-14T13:14:30.241Z properties/retrievePropertiesOfUserHandler.js | jwt expired
+ERROR 2022-09-14T13:14:45.445Z bookings/createBookingHandler.js | jwt expired
+INFO 2022-09-14T13:52:14.882Z src/index.js | 
+api stopped
+INFO 2022-09-14T13:52:14.895Z src/index.js | db disconnected
+INFO 2022-09-14T13:52:19.771Z src/index.js | db connected
+INFO 2022-09-14T13:52:19.833Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-14T13:53:09.806Z bookings/createBookingHandler.js | dates is not defined
+INFO 2022-09-14T13:54:32.936Z src/index.js | 
+api stopped
+INFO 2022-09-14T13:54:32.949Z src/index.js | db disconnected
+INFO 2022-09-14T13:54:35.910Z src/index.js | db connected
+INFO 2022-09-14T13:54:35.978Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-14T13:54:42.258Z bookings/createBookingHandler.js | there is a previous reservation in range of dates required
+ERROR 2022-09-14T13:55:04.380Z bookings/createBookingHandler.js | Property validation failed: portions.0.totalDaysBooked: Cast to Number failed for value "NaN" (type number) at path "totalDaysBooked"
+INFO 2022-09-14T13:56:25.150Z src/index.js | 
+api stopped
+INFO 2022-09-14T13:56:25.160Z src/index.js | db disconnected
+INFO 2022-09-14T13:56:28.165Z src/index.js | db connected
+INFO 2022-09-14T13:56:28.229Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-14T13:56:35.125Z bookings/createBookingHandler.js | there is a previous reservation in range of dates required
+ERROR 2022-09-14T13:58:43.604Z bookings/createBookingHandler.js | Cannot read properties of null (reading 'portions')
+INFO 2022-09-14T14:09:27.903Z src/index.js | 
+api stopped
+INFO 2022-09-14T14:09:27.919Z src/index.js | db disconnected
+INFO 2022-09-14T14:11:10.231Z src/index.js | db connected
+INFO 2022-09-14T14:11:10.296Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-14T14:11:21.395Z users/retrieveUserHandler.js | jwt expired
+ERROR 2022-09-14T14:11:21.397Z users/retrieveUserHandler.js | jwt expired
+ERROR 2022-09-14T14:13:09.620Z bookings/createBookingHandler.js | days of new booking 325 are more than available dats 179
+INFO 2022-09-14T16:15:18.716Z src/index.js | 
+api stopped
+INFO 2022-09-14T16:15:18.728Z src/index.js | db disconnected
+INFO 2022-09-14T16:15:22.532Z src/index.js | db connected
+INFO 2022-09-14T16:15:22.604Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-14T16:15:36.938Z users/retrieveUserHandler.js | jwt expired
+ERROR 2022-09-14T16:15:36.940Z users/retrieveUserHandler.js | jwt expired
+ERROR 2022-09-14T16:38:43.238Z bookings/createBookingHandler.js | there is a previous reservation in range of dates required
+ERROR 2022-09-14T17:03:26.505Z bookings/createBookingHandler.js | there is a previous reservation in range of dates required
+ERROR 2022-09-14T17:03:34.622Z bookings/createBookingHandler.js | there is a previous reservation in range of dates required
+ERROR 2022-09-14T17:06:11.265Z bookings/createBookingHandler.js | there is a previous reservation in range of dates required
+ERROR 2022-09-14T17:06:16.945Z bookings/createBookingHandler.js | there is a previous reservation in range of dates required
+ERROR 2022-09-14T17:06:46.615Z bookings/createBookingHandler.js | there is a previous reservation in range of dates required
+ERROR 2022-09-14T21:34:02.202Z properties/retrievePropertiesOfUserHandler.js | jwt expired
+INFO 2022-09-15T07:16:07.035Z src/index.js | 
+api stopped
+INFO 2022-09-15T07:16:37.073Z src/index.js | db disconnected
+INFO 2022-09-15T07:44:47.619Z src/index.js | db connected
+INFO 2022-09-15T07:44:47.685Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-15T07:47:42.621Z bookings/createBookingHandler.js | there is a previous reservation in range of dates chosen
+ERROR 2022-09-15T07:48:12.217Z bookings/createBookingHandler.js | there is a previous reservation in range of dates chosen
+INFO 2022-09-15T10:04:16.819Z src/index.js | 
+api stopped
+INFO 2022-09-15T10:04:16.831Z src/index.js | db disconnected
+INFO 2022-09-15T10:55:56.531Z src/index.js | db connected
+INFO 2022-09-15T10:55:56.595Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-15T11:01:22.132Z bookings/createBookingHandler.js | there is a previous reservation in range of dates chosen
+ERROR 2022-09-15T11:02:51.384Z bookings/createBookingHandler.js | there is a previous reservation in range of dates chosen
+ERROR 2022-09-15T11:03:28.353Z bookings/createBookingHandler.js | there is a previous reservation in range of dates chosen
+ERROR 2022-09-15T11:20:42.948Z bookings/createBookingHandler.js | there is a previous reservation in range of dates chosen
+ERROR 2022-09-15T11:20:53.161Z bookings/createBookingHandler.js | there is a previous reservation in range of dates chosen
+ERROR 2022-09-15T12:29:50.125Z bookings/createBookingHandler.js | jwt expired
+ERROR 2022-09-15T12:30:09.803Z bookings/createBookingHandler.js | jwt expired
+ERROR 2022-09-15T12:30:39.219Z users/retrieveUserHandler.js | jwt expired
+ERROR 2022-09-15T12:30:39.222Z users/retrieveUserHandler.js | jwt expired
+ERROR 2022-09-15T12:46:21.198Z bookings/createBookingHandler.js | there is a previous reservation in range of dates chosen
+ERROR 2022-09-15T13:11:58.643Z bookings/createBookingHandler.js | there is a previous reservation in range of dates chosen
+ERROR 2022-09-15T13:12:26.782Z bookings/createBookingHandler.js | there is a previous reservation in range of dates chosen
+ERROR 2022-09-15T13:13:44.371Z bookings/createBookingHandler.js | there is a previous reservation in range of dates chosen
+ERROR 2022-09-15T13:29:33.035Z bookings/createBookingHandler.js | there is a previous reservation in range of dates chosen
+ERROR 2022-09-15T13:30:18.199Z bookings/createBookingHandler.js | there is a previous reservation in range of dates chosen
+INFO 2022-09-15T13:32:34.106Z src/index.js | 
+api stopped
+INFO 2022-09-15T13:32:34.118Z src/index.js | db disconnected
+INFO 2022-09-15T13:32:36.277Z src/index.js | db connected
+INFO 2022-09-15T13:32:36.341Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-15T15:08:09.632Z src/index.js | 
+api stopped
+INFO 2022-09-15T15:08:09.659Z src/index.js | db disconnected
+INFO 2022-09-15T15:08:30.183Z src/index.js | db connected
+ERROR 2022-09-15T15:08:30.242Z src/index.js | Cannot find module '.retrieveTotalBookingsOfAProperty'
+Require stack:
+- /Users/tonisallent/workspace/neoland-bootcamp-202207/staff/toni-sallent/final-project/api/src/logic/bookings/index.js
+- /Users/tonisallent/workspace/neoland-bootcamp-202207/staff/toni-sallent/final-project/api/src/logic/index.js
+- /Users/tonisallent/workspace/neoland-bootcamp-202207/staff/toni-sallent/final-project/api/src/routes/users/authenticateUserHandler.js
+- /Users/tonisallent/workspace/neoland-bootcamp-202207/staff/toni-sallent/final-project/api/src/routes/users/index.js
+- /Users/tonisallent/workspace/neoland-bootcamp-202207/staff/toni-sallent/final-project/api/src/routes/index.js
+- /Users/tonisallent/workspace/neoland-bootcamp-202207/staff/toni-sallent/final-project/api/src/index.js
+INFO 2022-09-15T15:10:55.187Z src/index.js | db connected
+ERROR 2022-09-15T15:10:55.253Z src/index.js | Route.get() requires a callback function but got a [object Undefined]
+INFO 2022-09-15T15:13:41.459Z src/index.js | db connected
+ERROR 2022-09-15T15:13:41.517Z src/index.js | Route.post() requires a callback function but got a [object Undefined]
+INFO 2022-09-15T15:39:02.853Z src/index.js | db connected
+INFO 2022-09-15T15:39:02.919Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-15T15:41:52.370Z users/retrieveUserHandler.js | jwt expired
+ERROR 2022-09-15T15:41:52.372Z users/retrieveUserHandler.js | jwt expired
+INFO 2022-09-16T07:23:32.896Z src/index.js | db connected
+INFO 2022-09-16T07:23:32.958Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-16T07:24:09.956Z bookings/createBookingHandler.js | there is a previous reservation in range of dates chosen
+INFO 2022-09-16T08:48:57.858Z src/index.js | 
+api stopped
+INFO 2022-09-16T08:48:57.876Z src/index.js | db disconnected
+INFO 2022-09-16T08:48:59.692Z src/index.js | db connected
+INFO 2022-09-16T08:48:59.760Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-16T11:08:21.908Z users/retrieveUserHandler.js | jwt expired
+ERROR 2022-09-16T11:08:21.915Z users/retrieveUserHandler.js | jwt expired
+INFO 2022-09-16T13:03:47.399Z src/index.js | 
+api stopped
+INFO 2022-09-16T13:03:47.415Z src/index.js | db disconnected
+INFO 2022-09-16T13:03:54.785Z src/index.js | db connected
+INFO 2022-09-16T13:03:54.850Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-16T13:12:53.236Z src/index.js | 
+api stopped
+INFO 2022-09-16T13:12:53.248Z src/index.js | db disconnected
+INFO 2022-09-16T13:12:55.925Z src/index.js | db connected
+INFO 2022-09-16T13:12:55.988Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-16T13:13:10.134Z messages/createMessageHandler.js | createMessage is not a function
+INFO 2022-09-16T13:14:17.112Z src/index.js | 
+api stopped
+INFO 2022-09-16T13:14:17.127Z src/index.js | db disconnected
+INFO 2022-09-16T13:14:19.248Z src/index.js | db connected
+INFO 2022-09-16T13:14:19.314Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-16T13:14:24.679Z messages/createMessageHandler.js | verifyObjectIdString is not defined
+INFO 2022-09-16T13:16:14.585Z src/index.js | 
+api stopped
+INFO 2022-09-16T13:16:14.597Z src/index.js | db disconnected
+INFO 2022-09-16T13:16:16.717Z src/index.js | db connected
+INFO 2022-09-16T13:16:16.782Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-16T13:24:56.696Z messages/createMessageHandler.js | NotFoundError is not defined
+INFO 2022-09-16T14:35:03.074Z src/index.js | 
+api stopped
+INFO 2022-09-16T14:35:03.086Z src/index.js | db disconnected
+INFO 2022-09-16T14:35:05.952Z src/index.js | db connected
+INFO 2022-09-16T14:35:06.020Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-16T14:35:14.472Z messages/createMessageHandler.js | jwt expired
+ERROR 2022-09-16T14:35:33.341Z messages/createMessageHandler.js | SystemError is not defined
+INFO 2022-09-16T14:36:52.103Z src/index.js | 
+api stopped
+INFO 2022-09-16T14:36:52.115Z src/index.js | db disconnected
+INFO 2022-09-16T14:36:53.948Z src/index.js | db connected
+INFO 2022-09-16T14:36:54.015Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-16T14:37:24.510Z messages/createMessageHandler.js | Message validation failed: property: Path `property` is required.
+INFO 2022-09-16T14:38:06.913Z src/index.js | 
+api stopped
+INFO 2022-09-16T14:38:06.925Z src/index.js | db disconnected
+INFO 2022-09-16T14:38:08.458Z src/index.js | db connected
+INFO 2022-09-16T14:38:08.527Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-16T14:41:20.730Z src/index.js | 
+api stopped
+INFO 2022-09-16T14:41:20.736Z src/index.js | db disconnected
+INFO 2022-09-16T14:51:34.471Z src/index.js | db connected
+INFO 2022-09-16T14:51:34.544Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-16T15:19:15.705Z src/index.js | 
+api stopped
+INFO 2022-09-16T15:19:15.720Z src/index.js | db disconnected
+INFO 2022-09-16T15:19:18.025Z src/index.js | db connected
+INFO 2022-09-16T15:19:18.095Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-16T16:28:15.468Z src/index.js | 
+api stopped
+INFO 2022-09-16T16:28:15.487Z src/index.js | db disconnected
+INFO 2022-09-16T16:28:18.674Z src/index.js | db connected
+INFO 2022-09-16T16:28:18.744Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-16T16:28:56.847Z messages/createMessageHandler.js | user with id 631b12e926735cb391ff72f3 isn't owner of the property with id 63205e3ca601c49d2ec5b85d 
+ERROR 2022-09-16T16:29:43.706Z messages/createMessageHandler.js | user with id 631b12e926735cb391ff72f3 isn't owner of the property with id 63205e3ca601c49d2ec5b85d 
+ERROR 2022-09-16T22:27:47.211Z properties/retrievePropertiesOfUserHandler.js | jwt expired
+ERROR 2022-09-16T22:27:55.046Z bookings/createBookingHandler.js | jwt expired
+ERROR 2022-09-16T22:28:00.859Z bookings/createBookingHandler.js | jwt expired
+INFO 2022-09-17T08:33:11.267Z src/index.js | 
+api stopped
+INFO 2022-09-17T08:33:11.283Z src/index.js | db disconnected
+INFO 2022-09-17T08:44:19.113Z src/index.js | db connected
+INFO 2022-09-17T08:44:19.182Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-17T09:31:28.489Z src/index.js | 
+api stopped
+INFO 2022-09-17T09:31:28.500Z src/index.js | db disconnected
+INFO 2022-09-17T09:31:31.423Z src/index.js | db connected
+ERROR 2022-09-17T09:31:31.480Z src/index.js | Cannot find module '.retrieveMessages/'
+Require stack:
+- /Users/tonisallent/workspace/neoland-bootcamp-202207/staff/toni-sallent/final-project/api/src/logic/messages/index.js
+- /Users/tonisallent/workspace/neoland-bootcamp-202207/staff/toni-sallent/final-project/api/src/logic/index.js
+- /Users/tonisallent/workspace/neoland-bootcamp-202207/staff/toni-sallent/final-project/api/src/routes/users/authenticateUserHandler.js
+- /Users/tonisallent/workspace/neoland-bootcamp-202207/staff/toni-sallent/final-project/api/src/routes/users/index.js
+- /Users/tonisallent/workspace/neoland-bootcamp-202207/staff/toni-sallent/final-project/api/src/routes/index.js
+- /Users/tonisallent/workspace/neoland-bootcamp-202207/staff/toni-sallent/final-project/api/src/index.js
+INFO 2022-09-17T09:33:03.863Z src/index.js | db connected
+ERROR 2022-09-17T09:33:03.900Z src/index.js | Cannot use import statement outside a module
+INFO 2022-09-17T09:36:56.251Z src/index.js | db connected
+INFO 2022-09-17T09:36:56.312Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-17T09:37:19.046Z messages/retrieveMessagesHandler.js | verifyObjectIdString is not defined
+INFO 2022-09-17T09:41:12.069Z src/index.js | 
+api stopped
+INFO 2022-09-17T09:41:12.077Z src/index.js | db disconnected
+INFO 2022-09-17T09:41:13.883Z src/index.js | db connected
+INFO 2022-09-17T09:41:13.944Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-17T10:18:48.763Z src/index.js | 
+api stopped
+INFO 2022-09-17T10:18:48.777Z src/index.js | db disconnected
+INFO 2022-09-17T10:18:50.824Z src/index.js | db connected
+INFO 2022-09-17T10:18:50.889Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-17T10:19:01.819Z users/retrieveUserHandler.js | jwt expired
+ERROR 2022-09-17T10:19:01.821Z users/retrieveUserHandler.js | jwt expired
+INFO 2022-09-17T11:10:17.627Z src/index.js | 
+api stopped
+INFO 2022-09-17T11:10:17.639Z src/index.js | db disconnected
+INFO 2022-09-17T11:10:20.347Z src/index.js | db connected
+INFO 2022-09-17T11:10:20.413Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-17T11:11:12.952Z src/index.js | 
+api stopped
+INFO 2022-09-17T11:11:12.961Z src/index.js | db disconnected
+INFO 2022-09-17T11:11:14.954Z src/index.js | db connected
+INFO 2022-09-17T11:11:15.022Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-17T11:25:56.205Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-17T11:25:56.209Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-17T11:26:01.826Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-17T11:26:01.828Z messages/retrieveMessagesHandler.js | FormatError is not defined
+INFO 2022-09-17T12:15:22.856Z src/index.js | 
+api stopped
+INFO 2022-09-17T12:15:22.868Z src/index.js | db disconnected
+INFO 2022-09-17T12:15:25.110Z src/index.js | db connected
+INFO 2022-09-17T12:15:25.187Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-17T12:20:07.955Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-17T12:20:07.956Z messages/retrieveMessagesHandler.js | FormatError is not defined
+INFO 2022-09-17T12:25:33.122Z src/index.js | 
+api stopped
+INFO 2022-09-17T12:25:33.132Z src/index.js | db disconnected
+INFO 2022-09-17T12:27:15.642Z src/index.js | db connected
+INFO 2022-09-17T12:27:15.707Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-17T12:29:06.814Z messages/createMessageHandler.js | Message validation failed: text: Path `text` is required.
+ERROR 2022-09-17T12:48:26.027Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-17T12:48:26.028Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-17T12:48:26.030Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-17T12:48:26.031Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-17T12:48:33.195Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-17T12:48:34.498Z messages/retrieveMessagesHandler.js | FormatError is not defined
+INFO 2022-09-17T12:48:47.641Z src/index.js | 
+api stopped
+INFO 2022-09-17T12:48:47.650Z src/index.js | db disconnected
+INFO 2022-09-17T12:48:49.517Z src/index.js | db connected
+INFO 2022-09-17T12:48:49.586Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-17T12:51:53.918Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-17T12:51:59.270Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-17T12:51:59.271Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-17T12:52:00.400Z messages/retrieveMessagesHandler.js | FormatError is not defined
+INFO 2022-09-17T12:55:31.155Z src/index.js | 
+api stopped
+INFO 2022-09-17T12:55:31.167Z src/index.js | db disconnected
+INFO 2022-09-17T12:55:35.345Z src/index.js | db connected
+INFO 2022-09-17T12:55:35.416Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-17T12:55:38.354Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-17T12:59:14.215Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-17T12:59:58.012Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-17T13:06:27.146Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-17T13:06:31.702Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-17T13:06:31.704Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-17T13:06:32.960Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-17T16:09:38.604Z messages/retrieveMessagesHandler.js | jwt expired
+ERROR 2022-09-17T16:10:30.952Z messages/retrieveMessagesHandler.js | jwt expired
+ERROR 2022-09-17T16:23:52.978Z users/retrieveUserHandler.js | jwt expired
+ERROR 2022-09-17T16:23:52.984Z users/retrieveUserHandler.js | jwt expired
+ERROR 2022-09-17T16:23:53.015Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-17T16:23:53.016Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-17T16:24:12.044Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-17T16:26:23.126Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-17T16:26:23.127Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-17T16:26:29.432Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-17T16:26:29.435Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-17T16:26:31.244Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-17T16:26:31.245Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-17T16:26:32.381Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-17T16:26:33.078Z messages/retrieveMessagesHandler.js | FormatError is not defined
+INFO 2022-09-17T16:32:00.170Z src/index.js | db connected
+INFO 2022-09-17T16:32:00.240Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-17T16:32:26.599Z src/index.js | db connected
+INFO 2022-09-17T16:32:26.662Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-17T17:06:07.747Z bookings/createBookingHandler.js | there is a previous reservation in range of dates chosen
+ERROR 2022-09-17T17:36:27.658Z bookings/createBookingHandler.js | there is a previous reservation in range of dates chosen
+INFO 2022-09-19T07:42:37.519Z src/index.js | 
+api stopped
+INFO 2022-09-19T07:42:37.567Z src/index.js | db disconnected
+INFO 2022-09-19T08:01:19.022Z src/index.js | db connected
+INFO 2022-09-19T08:01:19.090Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-19T11:21:34.766Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-19T11:21:34.771Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-19T11:26:25.450Z bookings/createBookingHandler.js | there is a previous reservation in range of dates chosen
+INFO 2022-09-19T12:33:01.854Z src/index.js | 
+api stopped
+INFO 2022-09-19T12:33:01.869Z src/index.js | db disconnected
+INFO 2022-09-19T12:33:04.568Z src/index.js | db connected
+INFO 2022-09-19T12:33:04.637Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-19T12:34:57.510Z bookings/retrieveUserBookingsOfAPropertyHandler.js | retrieveUserBookingsOfAProperty is not a function
+INFO 2022-09-19T12:41:02.264Z src/index.js | 
+api stopped
+INFO 2022-09-19T12:41:02.277Z src/index.js | db disconnected
+INFO 2022-09-19T12:41:04.240Z src/index.js | db connected
+INFO 2022-09-19T12:41:04.307Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-19T12:41:09.297Z bookings/retrieveUserBookingsOfAPropertyHandler.js | retrieveUserBookingsOfAProperty is not a function
+ERROR 2022-09-19T12:41:19.727Z bookings/retrieveUserBookingsOfAPropertyHandler.js | retrieveUserBookingsOfAProperty is not a function
+INFO 2022-09-19T13:35:19.335Z src/index.js | 
+api stopped
+INFO 2022-09-19T13:35:19.350Z src/index.js | db disconnected
+INFO 2022-09-19T13:35:21.859Z src/index.js | db connected
+INFO 2022-09-19T13:35:21.926Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-19T13:35:35.873Z users/retrieveUserHandler.js | jwt expired
+ERROR 2022-09-19T13:35:35.874Z users/retrieveUserHandler.js | jwt expired
+ERROR 2022-09-19T13:36:52.050Z bookings/createBookingHandler.js | there is a previous reservation in range of dates chosen
+ERROR 2022-09-19T13:48:20.224Z bookings/createBookingHandler.js | there is a previous reservation in range of dates chosen
+ERROR 2022-09-19T14:37:40.933Z bookings/retrieveUserBookingsOfAPropertyHandler.js | retrieveUserBookingsOfAProperty is not a function
+ERROR 2022-09-19T14:42:48.741Z bookings/retrieveUserBookingsOfAPropertyHandler.js | retrieveUserBookingsOfAProperty is not a function
+ERROR 2022-09-19T14:43:36.700Z bookings/retrieveUserBookingsOfAPropertyHandler.js | retrieveUserBookingsOfAProperty is not a function
+INFO 2022-09-19T14:55:08.481Z src/index.js | 
+api stopped
+INFO 2022-09-19T14:55:08.496Z src/index.js | db disconnected
+INFO 2022-09-19T14:55:10.633Z src/index.js | db connected
+INFO 2022-09-19T14:55:10.710Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-20T08:27:41.965Z src/index.js | db connected
+INFO 2022-09-20T08:27:42.040Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-20T08:33:06.905Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-20T08:33:06.906Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-20T08:33:10.079Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-20T08:33:14.281Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-20T08:33:14.283Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-20T08:33:15.774Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-20T08:33:15.776Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-20T08:33:19.027Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-20T08:35:33.706Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-20T08:35:33.708Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-20T08:35:36.199Z messages/retrieveMessagesHandler.js | FormatError is not defined
+ERROR 2022-09-20T08:35:36.200Z messages/retrieveMessagesHandler.js | FormatError is not defined
+INFO 2022-09-20T09:31:35.868Z src/index.js | db connected
+INFO 2022-09-20T09:31:35.937Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-20T14:18:15.126Z src/index.js | 
+api stopped
+INFO 2022-09-20T14:18:15.152Z src/index.js | db disconnected
+INFO 2022-09-20T14:18:23.863Z src/index.js | db connected
+ERROR 2022-09-20T14:18:23.934Z src/index.js | Route.delete() requires a callback function but got a [object Undefined]
+INFO 2022-09-20T14:28:23.516Z src/index.js | db connected
+ERROR 2022-09-20T14:28:23.586Z src/index.js | Route.delete() requires a callback function but got a [object Undefined]
+INFO 2022-09-20T14:49:30.130Z src/index.js | db connected
+INFO 2022-09-20T14:49:30.197Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-20T14:52:11.188Z bookings/deleteBookingHandler.js | createBooking is not defined
+INFO 2022-09-20T14:53:46.564Z src/index.js | 
+api stopped
+INFO 2022-09-20T14:53:46.571Z src/index.js | db disconnected
+INFO 2022-09-20T14:53:48.206Z src/index.js | db connected
+INFO 2022-09-20T14:53:48.274Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-20T16:03:57.540Z bookings/deleteBookingHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Booking"
+ERROR 2022-09-20T16:08:49.300Z bookings/deleteBookingHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Booking"
+ERROR 2022-09-20T16:10:43.623Z bookings/deleteBookingHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Booking"
+INFO 2022-09-20T16:18:14.408Z src/index.js | 
+api stopped
+INFO 2022-09-20T16:18:14.429Z src/index.js | db disconnected
+INFO 2022-09-20T16:18:16.998Z src/index.js | db connected
+INFO 2022-09-20T16:18:17.070Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-20T16:19:46.776Z src/index.js | 
+api stopped
+INFO 2022-09-20T16:19:46.785Z src/index.js | db disconnected
+INFO 2022-09-20T16:19:47.909Z src/index.js | db connected
+INFO 2022-09-20T16:19:47.976Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-20T16:20:11.329Z src/index.js | 
+api stopped
+INFO 2022-09-20T16:20:11.339Z src/index.js | db disconnected
+INFO 2022-09-20T16:20:12.332Z src/index.js | db connected
+INFO 2022-09-20T16:20:12.398Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-20T16:20:55.025Z src/index.js | 
+api stopped
+INFO 2022-09-20T16:20:55.031Z src/index.js | db disconnected
+INFO 2022-09-20T16:20:56.070Z src/index.js | db connected
+INFO 2022-09-20T16:20:56.135Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-21T07:06:21.604Z src/index.js | 
+api stopped
+INFO 2022-09-21T07:06:21.618Z src/index.js | db disconnected
+INFO 2022-09-21T07:06:23.387Z src/index.js | db connected
+INFO 2022-09-21T07:06:23.458Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-21T07:22:18.016Z src/index.js | db connected
+INFO 2022-09-21T07:22:18.083Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-21T13:02:25.291Z users/retrieveUserHandler.js | jwt expired
+ERROR 2022-09-21T13:02:25.296Z users/retrieveUserHandler.js | jwt expired
+ERROR 2022-09-21T14:34:38.827Z bookings/createBookingHandler.js | there is a previous reservation in range of dates chosen
+INFO 2022-09-21T14:44:00.041Z src/index.js | 
+api stopped
+INFO 2022-09-21T14:44:00.060Z src/index.js | db disconnected
+INFO 2022-09-21T14:44:01.871Z src/index.js | db connected
+INFO 2022-09-21T14:44:01.942Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-21T14:59:58.181Z src/index.js | 
+api stopped
+INFO 2022-09-21T14:59:58.199Z src/index.js | db disconnected
+INFO 2022-09-21T15:00:01.634Z src/index.js | db connected
+INFO 2022-09-21T15:00:01.702Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-21T15:04:01.095Z src/index.js | 
+api stopped
+INFO 2022-09-21T15:04:01.115Z src/index.js | db disconnected
+INFO 2022-09-21T15:04:03.150Z src/index.js | db connected
+INFO 2022-09-21T15:04:03.222Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-21T15:54:27.887Z src/index.js | 
+api stopped
+INFO 2022-09-21T15:54:27.905Z src/index.js | db disconnected
+INFO 2022-09-21T15:54:30.615Z src/index.js | db connected
+INFO 2022-09-21T15:54:30.689Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-21T15:56:01.791Z bookings/retrieveDeletedBookingsHandler.js | verifyToken is not a function
+INFO 2022-09-21T15:56:53.217Z src/index.js | 
+api stopped
+INFO 2022-09-21T15:56:53.226Z src/index.js | db disconnected
+INFO 2022-09-21T15:56:55.392Z src/index.js | db connected
+INFO 2022-09-21T15:56:55.460Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-21T16:06:03.692Z src/index.js | 
+api stopped
+INFO 2022-09-21T16:06:03.705Z src/index.js | db disconnected
+INFO 2022-09-21T16:06:05.430Z src/index.js | db connected
+INFO 2022-09-21T16:06:05.505Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-21T16:32:32.222Z src/index.js | 
+api stopped
+INFO 2022-09-21T16:32:32.238Z src/index.js | db disconnected
+INFO 2022-09-21T16:32:33.431Z src/index.js | db connected
+INFO 2022-09-21T16:32:33.503Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-21T16:34:57.848Z bookings/deleteBookingHandler.js | jwt expired
+INFO 2022-09-21T16:36:05.300Z src/index.js | 
+api stopped
+INFO 2022-09-21T16:36:05.312Z src/index.js | db disconnected
+INFO 2022-09-21T16:36:06.418Z src/index.js | db connected
+INFO 2022-09-21T16:36:06.491Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-21T16:36:47.910Z bookings/retrieveTotalBookingsOfAPropertyHandler.js | userId is not defined
+INFO 2022-09-21T18:35:40.222Z src/index.js | 
+api stopped
+INFO 2022-09-21T18:35:40.243Z src/index.js | db disconnected
+INFO 2022-09-21T18:35:42.853Z src/index.js | db connected
+INFO 2022-09-21T18:35:42.928Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-21T18:37:27.330Z bookings/createBookingHandler.js | there is a previous reservation in range of dates chosen
+ERROR 2022-09-21T18:37:29.501Z bookings/createBookingHandler.js | there is a previous reservation in range of dates chosen
+ERROR 2022-09-21T18:39:22.021Z bookings/deleteBookingHandler.js | jwt expired
+ERROR 2022-09-21T18:39:43.912Z bookings/deleteBookingHandler.js | Cannot read properties of undefined (reading 'then')
+INFO 2022-09-21T18:42:12.331Z src/index.js | 
+api stopped
+INFO 2022-09-21T18:42:12.345Z src/index.js | db disconnected
+INFO 2022-09-21T18:42:14.310Z src/index.js | db connected
+INFO 2022-09-21T18:42:14.383Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-21T18:42:19.592Z bookings/deleteBookingHandler.js | Cannot read properties of undefined (reading 'then')
+INFO 2022-09-21T18:51:58.199Z src/index.js | 
+api stopped
+INFO 2022-09-21T18:51:58.212Z src/index.js | db disconnected
+INFO 2022-09-21T18:52:00.149Z src/index.js | db connected
+INFO 2022-09-21T18:52:00.217Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-21T18:52:11.145Z src/index.js | 
+api stopped
+INFO 2022-09-21T18:52:11.155Z src/index.js | db disconnected
+INFO 2022-09-21T18:52:12.677Z src/index.js | db connected
+INFO 2022-09-21T18:52:12.743Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-21T18:52:17.007Z bookings/deleteBookingHandler.js | Cannot read properties of undefined (reading 'then')
+INFO 2022-09-21T18:55:17.878Z src/index.js | 
+api stopped
+INFO 2022-09-21T18:55:17.891Z src/index.js | db disconnected
+INFO 2022-09-21T18:55:20.302Z src/index.js | db connected
+INFO 2022-09-21T18:55:20.369Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-21T18:55:27.132Z bookings/deleteBookingHandler.js | Cannot read properties of undefined (reading 'then')
+INFO 2022-09-21T19:00:18.363Z src/index.js | 
+api stopped
+INFO 2022-09-21T19:00:18.375Z src/index.js | db disconnected
+INFO 2022-09-21T19:00:20.322Z src/index.js | db connected
+INFO 2022-09-21T19:00:20.390Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-21T19:01:30.275Z bookings/deleteBookingHandler.js | Cannot read properties of undefined (reading 'then')
+INFO 2022-09-21T19:08:53.251Z src/index.js | 
+api stopped
+INFO 2022-09-21T19:08:53.263Z src/index.js | db disconnected
+INFO 2022-09-21T19:08:55.569Z src/index.js | db connected
+INFO 2022-09-21T19:08:55.636Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-21T19:09:45.814Z bookings/deleteBookingHandler.js | Cannot read properties of null (reading 'forEach')
+INFO 2022-09-21T19:27:03.043Z src/index.js | 
+api stopped
+INFO 2022-09-21T19:27:03.074Z src/index.js | db disconnected
+INFO 2022-09-21T19:27:04.948Z src/index.js | db connected
+INFO 2022-09-21T19:27:05.025Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-21T19:28:17.832Z bookings/deleteBookingHandler.js | Cannot read properties of undefined (reading 'then')
+INFO 2022-09-21T20:08:07.447Z src/index.js | 
+api stopped
+INFO 2022-09-21T20:08:07.467Z src/index.js | db disconnected
+INFO 2022-09-21T20:08:21.738Z src/index.js | db connected
+INFO 2022-09-21T20:08:21.810Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-21T20:08:46.500Z bookings/createBookingHandler.js | jwt expired
+ERROR 2022-09-21T20:10:26.291Z bookings/deleteBookingHandler.js | Cannot read properties of undefined (reading 'then')
+INFO 2022-09-21T20:11:48.399Z src/index.js | 
+api stopped
+INFO 2022-09-21T20:11:48.412Z src/index.js | db disconnected
+INFO 2022-09-21T20:12:15.135Z src/index.js | db connected
+INFO 2022-09-21T20:12:15.210Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-21T20:13:29.257Z bookings/deleteBookingHandler.js | Cannot read properties of undefined (reading 'then')
+INFO 2022-09-21T20:30:58.094Z src/index.js | 
+api stopped
+INFO 2022-09-21T20:30:58.128Z src/index.js | db disconnected
+INFO 2022-09-21T20:30:59.940Z src/index.js | db connected
+INFO 2022-09-21T20:31:00.011Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-21T20:31:02.012Z src/index.js | 
+api stopped
+INFO 2022-09-21T20:31:02.022Z src/index.js | db disconnected
+INFO 2022-09-21T20:31:06.856Z src/index.js | db connected
+INFO 2022-09-21T20:31:06.899Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-21T20:38:32.169Z bookings/createBookingHandler.js | days of new booking 5 are more than available dats 0
+ERROR 2022-09-21T20:38:42.962Z bookings/createBookingHandler.js | days of new booking 2 are more than available dats 0
+ERROR 2022-09-21T20:39:15.463Z bookings/createBookingHandler.js | there is a previous reservation in range of dates chosen
+INFO 2022-09-21T20:54:10.512Z src/index.js | 
+api stopped
+INFO 2022-09-21T20:54:10.535Z src/index.js | db disconnected
+INFO 2022-09-21T20:54:13.947Z src/index.js | db connected
+INFO 2022-09-21T20:54:14.022Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-21T21:04:42.076Z src/index.js | 
+api stopped
+INFO 2022-09-21T21:04:42.094Z src/index.js | db disconnected
+INFO 2022-09-21T21:04:44.411Z src/index.js | db connected
+INFO 2022-09-21T21:04:44.479Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-21T21:07:26.256Z src/index.js | 
+api stopped
+INFO 2022-09-21T21:07:26.267Z src/index.js | db disconnected
+INFO 2022-09-21T21:07:27.908Z src/index.js | db connected
+INFO 2022-09-21T21:07:27.977Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-22T06:40:23.287Z users/retrieveUserHandler.js | jwt expired
+ERROR 2022-09-22T06:40:23.290Z users/retrieveUserHandler.js | jwt expired
+ERROR 2022-09-22T06:42:10.124Z bookings/createBookingHandler.js | there is a previous reservation in range of dates chosen
+INFO 2022-09-22T07:30:21.776Z src/index.js | 
+api stopped
+INFO 2022-09-22T07:30:21.796Z src/index.js | db disconnected
+INFO 2022-09-22T07:30:25.829Z src/index.js | db connected
+INFO 2022-09-22T07:30:25.904Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-22T07:39:22.061Z src/index.js | 
+api stopped
+INFO 2022-09-22T07:39:22.082Z src/index.js | db disconnected
+INFO 2022-09-22T07:39:23.600Z src/index.js | db connected
+INFO 2022-09-22T07:39:23.669Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-22T07:39:30.573Z users/retrieveUserHandler.js | Cannot populate path `user` because it is not in your schema. Set the `strictPopulate` option to false to override.
+ERROR 2022-09-22T07:39:30.578Z users/retrieveUserHandler.js | Cannot populate path `user` because it is not in your schema. Set the `strictPopulate` option to false to override.
+ERROR 2022-09-22T07:39:32.644Z users/retrieveUserHandler.js | Cannot populate path `user` because it is not in your schema. Set the `strictPopulate` option to false to override.
+ERROR 2022-09-22T07:39:32.651Z users/retrieveUserHandler.js | Cannot populate path `user` because it is not in your schema. Set the `strictPopulate` option to false to override.
+ERROR 2022-09-22T07:39:37.639Z users/retrieveUserHandler.js | Cannot populate path `user` because it is not in your schema. Set the `strictPopulate` option to false to override.
+ERROR 2022-09-22T07:39:37.643Z users/retrieveUserHandler.js | Cannot populate path `user` because it is not in your schema. Set the `strictPopulate` option to false to override.
+INFO 2022-09-22T07:40:34.259Z src/index.js | 
+api stopped
+INFO 2022-09-22T07:40:34.270Z src/index.js | db disconnected
+INFO 2022-09-22T07:40:35.835Z src/index.js | db connected
+INFO 2022-09-22T07:40:35.908Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-22T07:41:31.083Z src/index.js | 
+api stopped
+INFO 2022-09-22T07:41:31.095Z src/index.js | db disconnected
+INFO 2022-09-22T07:41:34.190Z src/index.js | db connected
+INFO 2022-09-22T07:41:34.261Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-22T09:22:20.438Z src/index.js | 
+api stopped
+INFO 2022-09-22T09:22:20.500Z src/index.js | db disconnected
+INFO 2022-09-22T09:28:25.615Z src/index.js | db connected
+INFO 2022-09-22T09:28:25.687Z src/index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-22T09:41:20.748Z bookings/createBookingHandler.js | there is a previous reservation in range of dates chosen
+ERROR 2022-09-22T09:41:22.737Z bookings/createBookingHandler.js | there is a previous reservation in range of dates chosen
+INFO 2022-09-23T10:23:47.196Z src/index.js | 
+api stopped
+INFO 2022-09-23T10:23:47.255Z src/index.js | db disconnected
+INFO 2022-09-23T10:23:49.082Z src/index.js | db connected
+INFO 2022-09-23T10:23:49.162Z src/index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-23T10:24:01.779Z src/index.js | 
+api stopped
+INFO 2022-09-23T10:24:01.785Z src/index.js | db disconnected

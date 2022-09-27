@@ -1,0 +1,20 @@
+.pay{
+    width: 60%;
+    height: 15%;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    margin: auto;
+    display: flex;
+    cursor: pointer;
+}
+.expensesContainer{
+    width: 90%;
+}
+li{
+    padding-top: 10px;
+}
+
+h3{
+    padding: 10px;
+}

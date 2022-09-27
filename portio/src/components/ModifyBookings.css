@@ -1,0 +1,65 @@
+.fullView{
+    position: absolute;
+    width: 412px;
+    height: 915px;
+    justify-content: center;
+    background-color: #80808099;
+    
+    top: 0px;
+    bottom: 0px;
+
+}
+
+.mainBookings{
+    height: 100%;
+    width: 100%;
+}
+.manageBookingsList{
+    height: 85%;
+    overflow: auto;
+    padding: 0;
+}
+.manageBookingsListItem{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px;
+    border: 2px solid black;
+    
+}
+.fromTo{
+    font-weight: bold;
+}
+.from{
+    margin-left: 10px;
+}
+
+.modal{
+    position: absolute;
+    height: 10%;
+    width: 80%;
+    left: 10%;
+    top: 20%;
+    background-color: white;
+    opacity: revert;
+
+}
+.answerContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.buttonForm{
+    width: 60px;
+    height: 30px;
+    background-color: white;
+    font-size: small;
+    margin: 15px;
+    border: 1px solid black;
+    border-radius: 5%;
+
+}
+
+.textQuestion{
+    margin: 0%;
+}

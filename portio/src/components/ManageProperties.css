@@ -1,0 +1,90 @@
+.main{
+    width: 100%;
+    height: 87%;
+}
+
+
+.ManagePropertiesList{
+    width: 100%;
+    height: 100%;
+    
+    
+    padding: 0%;
+    align-items: center;
+    justify-content: center;
+    
+}
+.title{
+    margin: 20px;
+}
+
+.PropertyTitle{
+    font-size: 20px;
+}
+
+.PropertyImg{
+    width: 40%;
+    height: 90%;
+    justify-content: center;
+    padding: 5px;
+}
+
+.propertyContainer{
+    width: 90%;
+    height: 100%;
+    background-color: white;
+    border-radius: 15%;
+    
+    
+}
+.ManagePropertiesListItem{
+    width: 100%;
+    height: 300px;
+    align-items: center;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    
+}
+
+.photos{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 40%;
+    justify-content: center;
+    
+}
+
+
+
+
+.containerHeader{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.adress{
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.propertyOptions{
+    width: 60%;
+    height: 15%;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    margin: auto;
+    display: flex;
+    cursor: pointer;
+    
+
+}
