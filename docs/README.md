@@ -6,11 +6,11 @@
 
 ---
 
-Seamos sinceros. Tener una segunda residencia está al abasto de pocos. Y no solo por el precio de la vivienda, sino también por el derroche de dinero que comporta el mantenimiento de la misma. Y para qué? Para usarla 30 días al año?
+Let's be honest. Having a second residence is available to few. And not only because of the price of the house, but also because of the waste of money involved in maintaining it. And for what? To use it 30 days a year?
 
-Pues aquí es donde nace Portio. Comprar porciones de casas y pagar sólo la porción que te corresponde. Pongamos un ejemplo: Xavi, Clara, Jordi y Daniel quieren comprarse una segunda residencia en la Costa Brava. Pero nadie está dispuesto a pagar 200 mil euros, sabiendo que no la van aprovechar todo el año porque todos trabajan en Barcelona. Entonces Portio compra una casa en Begur y le vende 1/4 parte a cada uno. Felicidades Clara! Ya eres PROPIETARIA y podrás disfrutar de 1/4 del año tu nueva segunda residencia. Así mismo, no tendrás que soportar tú sola los gastos de mantenimiento. Si al cabo de unos años Clara se cansa de la Costa Brava y decide cambiar de aires y adquirir una segunda residencia en la montaña, Clara venderá su 1/4 parte.
+Well, this is where Portio was born. Buy portions of houses and pay only the portion that corresponds to you. Let's give an example: John, Claire, Paul and Daniel want to buy a second home on the Costa Brava. But nobody is willing to pay 200,000 euros, knowing that they won't take advantage of it all year because they all work in Barcelona. So Portio buys a house in Begur and sells 1/4 part to each one. Congratulations Claire! You are already an OWNER and you will be able to enjoy 1/4 of the year your new second residence. Likewise, you will not have to bear the maintenance costs alone. If after a few years Claire tires of the Costa Brava and decides to change the scene and buy a second home in the mountains, Claire will sell 1/4 of it.
 
-Han pasado 5 años y definitivamente Clara se ha cansado y quiere cambiar de aires. Curiosamente su porción, que la compró por 50.000€, ahora se ha revalorizado en 60.000€!
+5 years have passed and Claire has definitely gotten tired and she wants a change of scenery. Curiously, her portion, which she bought for €50,000, has now appreciated by €60,000!
 
 ## Functional Description
 
